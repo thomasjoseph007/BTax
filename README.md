@@ -1,3 +1,3 @@
 # BTax
 Business Tax . ASP.NET(C#)
-SQL Serveler 2012
+SQL Server 2012
